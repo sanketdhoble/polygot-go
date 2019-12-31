@@ -20,7 +20,7 @@ go get
 The following command will start API server at port 8080
 
 ```
-go run prime_check.go
+go run prime-checker.go
 
 Url to hit:  
 
